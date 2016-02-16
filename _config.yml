@@ -1,3 +1,10 @@
 gems:
+  - jekyll
   - jekyll-redirect-from
   - jekyll-sitemap
+
+google_analytics:
+  account: UA-40515878-4
+
+github:
+  username: kuozumijp
