@@ -1,16 +1,15 @@
-.container{
+.container {
     margin-top:20px;
 }
-.row,
-.sns{
+
+.spacer {
     margin-top:20px;
 }
-.spacer{
-    margin-left:20px;
-}
-h1.montserrat{
+
+h1.montserrat {
     font-family: 'Montserrat', sans-serif;
 }
+
 .circle {
     border-radius: 50%;
     object-fit: cover;
