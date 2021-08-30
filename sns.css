@@ -485,6 +485,17 @@
   background:#000000
 }
 
+/*behance*/
+.btn-behance:hover > i,
+.btn-behance:focus > i
+{
+  color:#0057FF
+}
+
+.btn-behance > span {
+  background:#0057FF
+}
+
 /*slideshare*/
 .btn-slideshare:hover > i,
 .btn-slideshare:focus > i
