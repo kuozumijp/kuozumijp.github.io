@@ -506,3 +506,25 @@
 .btn-slideshare > span {
   background:#17A8AB
 }
+
+/*newspicks*/
+.btn-newspicks:hover > i,
+.btn-newspicks:focus > i
+{
+  color:#222222
+}
+
+.btn-newspicks > span {
+  background:#222222
+}
+
+/*change*/
+.btn-change:hover > i,
+.btn-change:focus > i
+{
+  color:#DC1D14
+}
+
+.btn-change > span {
+  background:#DC1D14
+}
