@@ -342,6 +342,17 @@
   background:#00A5BB
 }
 
+/*youtrust*/
+.btn-youtrust:hover > i,
+.btn-youtrust:focus > i
+{
+  color:#309DA5
+}
+
+.btn-youtrust > span {
+  background:#309DA5
+}
+
 /*ok*/
 .btn-ok:hover > i,
 .btn-ok:focus > i
